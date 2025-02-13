@@ -47,3 +47,22 @@ button {
     background-color: #f44336;
     position: relative;
 }
+
+.mensaje {
+    margin-top: 20px;
+    font-size: 24px;
+    color: #4CAF50;
+}
+
+.hearts {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.hearts img {
+    width: 50px; /* Tamaño de los corazones */
+    height: auto;
+}
