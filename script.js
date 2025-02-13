@@ -19,7 +19,7 @@ siBtn.addEventListener('click', () => {
     loroImg.src = 'bird_love.gif';
 
     // Muestra un mensaje
-    mensaje.textContent = '¡Gracias por ser mi amigo!';
+    mensaje.textContent = 'Te amo :3';
 
     // Oculta la pregunta y los botones
     pregunta.style.display = 'none';
